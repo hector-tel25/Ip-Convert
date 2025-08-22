@@ -13,6 +13,7 @@ Este es un programa en **Python** que permite convertir direcciones **IPv4** ent
 
 :camera_flash: Captura de pantalla
 
-<img width="1041" height="600" alt="Captura de pantalla_20250822_122425" src="https://github.com/user-attachments/assets/7efc732a-396f-4a3e-9ac3-866a0114db42" />
+<img width="1011" height="573" alt="Captura de pantalla_20250822_173206" src="https://github.com/user-attachments/assets/62578355-1855-4cad-9561-5b0db86c4a2a" />
+
 
 👨‍💻 Desarrollado por hector-tel25
